@@ -1,0 +1,53 @@
+.case-container{
+    position: absolute;
+    background-color: rgb(221, 221, 223);
+    width: 62%;
+    height: 100vh;
+    z-index: -1;
+    right: 0;
+    top: 0;
+}
+
+.display-image{
+    position: absolute;
+    z-index: 1000;
+    right: 450px;
+    top: 200px;
+}
+
+.view-image{
+    display: flex;
+    position: relative;
+    width: 160px;
+    height: auto;
+    top: 90vh;
+    left: 40vh;
+    padding: 10px;
+    gap: 2rem;
+}
+
+.view-image img{
+    display:block;
+    position: relative;
+    width: 160px;
+    height: auto;
+    cursor: pointer;
+    border: 3px solid hsla(0, 0%, 0%, 0.373);
+    box-shadow: 1px 1px 5px white;
+    background-color: hsla(0, 0%, 70%);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.view-image img:hover{
+    border: 3px solid hsla(30, 100%, 49%, 0.373);
+    background-color: hsla(0, 0%, 80%);
+    border-radius: 15px;
+}
+
+.view-image img:focus {
+  border: 3px solid hsl(30, 100%, 59%);
+  background-color: hsla(30, 100%, 90%, 0.8);
+  box-shadow: 0 0 10px hsla(30, 100%, 50%, 0.7);
+  border-radius: 15px;
+}

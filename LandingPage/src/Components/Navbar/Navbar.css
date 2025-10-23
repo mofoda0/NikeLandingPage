@@ -1,0 +1,48 @@
+.header{
+    position: relative;
+    top: 0;
+    left : 0;
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.nike-logo{
+    position: relative;
+    left: 6%;
+}
+
+.nike-logo .logo{
+    position: relative;
+    bottom: 14px;
+    color: #ff6452;
+    font-size: 2rem;
+    font-weight: 700;
+
+}
+
+.nike-logo .logo-icon{
+   position: relative ;
+   top: 5px;
+   right: 3px;
+}
+
+
+.navbar a{
+    position: relative;
+    display:inline-block;
+    color: hsl(204, 8%, 50%);
+    font-weight: 500;
+    font-size: 2rem;
+    margin-left: 90px;
+    right: 75%;
+    transition: 0.5s;
+}
+
+.navbar a:hover{
+    color: hsl(204, 8%, 60%);
+    transition: 0.2s;
+}
