@@ -1,4 +1,4 @@
-.hero-container{
+/* .hero-container{
     display:inline-block;
     position: relative;
     top: 30px;
@@ -10,7 +10,6 @@
     position: relative;
     color: rgb(234, 88, 12);
     font-size: 1.5rem;
-    top: 80px
 }
 
 .head-line{
@@ -33,38 +32,30 @@
 .sub-line{
     position: relative;
     color: rgb(109, 116, 128);
-    bottom: 80px;
     font-size: 1.3rem;
 }
 
 .shop-now{
     position: relative;
-    bottom: 30px;
     border: none;
     background-color: #ff6452;
     font-size: 2rem;
     color: white;
-    padding: 15px 30px;
+    padding: 15px 40px;
     border-radius: 50px;
     transition: 0.3s;
-    
+    top:30px;
 }
 
 .shop-now b{
     background-color: white;
     color: #ff6452;
     border-radius: 50%;
-    padding: 3px;
     font-size: 1.9rem;
-    font-weight: bold;
     padding: 3px 9px;
 }
 
-.shop-now b img{
-    width: 15px;
-    height: 15x;
-    padding: 4px 4px;
-}
+
 
 .shop-now:hover{
     background-color: hsl(6, 100%, 76%);
@@ -78,4 +69,4 @@
     transition: 0.5s;
 }
 
-
+ */
