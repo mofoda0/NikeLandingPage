@@ -20,7 +20,7 @@ const Showcase = () => {
 
   return (
     <section className="absolute bg-[rgb(221,221,223)] w-[62%] h-screen z-[-1] right-0 top-0">
-      <div className="absolute right-[450px] top-[200px]">
+      <div className="absolute right-[250px] top-[200px]">
           <img id="imageDisplay"
                src={image1}
                alt="shoes displayer"></img>

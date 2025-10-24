@@ -12,10 +12,10 @@ const Navbar = () => {
       </div>
 
       <nav>
-        <a href="#" className="relative inline-block text-[hsl(204,8%,50%)] font-medium text-2xl ml-[90px] right-[105%] transition-all duration-500 hover:text-[hsl(204,8%,60%)] hover:duration-200">Home</a>
-        <a href="#" className="relative inline-block text-[hsl(204,8%,50%)] font-medium text-2xl ml-[90px] right-[105%] transition-all duration-500 hover:text-[hsl(204,8%,60%)] hover:duration-200">About Us</a>
-        <a href="#" className="relative inline-block text-[hsl(204,8%,50%)] font-medium text-2xl ml-[90px] right-[105%] transition-all duration-500 hover:text-[hsl(204,8%,60%)] hover:duration-200">Products</a>
-        <a href="#" className="relative inline-block text-[hsl(204,8%,50%)] font-medium text-2xl ml-[90px] right-[105%] transition-all duration-500 hover:text-[hsl(204,8%,60%)] hover:duration-200">Contact Us</a>
+        <a href="#" className="relative inline-block text-[hsl(204,8%,50%)] font-medium text-2xl ml-[90px] right-[67%] transition-all duration-500 hover:text-[hsl(204,8%,60%)] hover:duration-200">Home</a>
+        <a href="#" className="relative inline-block text-[hsl(204,8%,50%)] font-medium text-2xl ml-[90px] right-[67%] transition-all duration-500 hover:text-[hsl(204,8%,60%)] hover:duration-200">About Us</a>
+        <a href="#" className="relative inline-block text-[hsl(204,8%,50%)] font-medium text-2xl ml-[90px] right-[67%] transition-all duration-500 hover:text-[hsl(204,8%,60%)] hover:duration-200">Products</a>
+        <a href="#" className="relative inline-block text-[hsl(204,8%,50%)] font-medium text-2xl ml-[90px] right-[67%] transition-all duration-500 hover:text-[hsl(204,8%,60%)] hover:duration-200">Contact Us</a>
       </nav>
     </header>
   )
